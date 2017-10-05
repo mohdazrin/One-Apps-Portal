@@ -29,7 +29,6 @@
 </platform>
 <preference name="phonegap-version" value="cli-6.5.0" />
 <preference name="xwalkMultipleApk" value="false" />
-<plugin name="cordova-plugin-crosswalk-webview" spec="1.8.0"/>
 <plugin name="cordova-plugin-statusbar" spec="2.2.3"/>
 <plugin name="cordova-plugin-device" spec="1.1.6"/>
 <plugin name="cordova-plugin-splashscreen" spec="4.0.3"/>
@@ -61,7 +60,6 @@
     <preference name="android-targetSdkVersion" value="21"/>
     <preference name="android-installLocation" value="auto"/>
     <preference name="android-signed" value="true"/>
-    <preference name="Fullscreen" value="false"/>
     <preference name="AndroidLaunchMode" value="singleTop"/>
 </platform>
 <platform name="ios" >

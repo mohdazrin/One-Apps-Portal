@@ -395,7 +395,7 @@ body#afui .splt {
   .default-graphic-text {
     font-size: 12px;
     font-style: normal;
-    font-family: monospace;
+    font-family: 'Open Sans';
     text-decoration: none;
     text-align: center;
   }
@@ -579,8 +579,8 @@ body#afui .splt {
   -webkit-box-orient: vertical;
 }
 .op-topTitle {
-  /*font-family: 'Cabin Sketch';font-size: 22px;*/
-  font-family: 'Asap Condensed';
+  /*font-family: ''Open Sans'';font-size: 22px;*/
+  font-family: ''Open Sans'';
   font-size: 22px;
   text-align: center;
 }
@@ -834,7 +834,7 @@ body#afui .splt {
 }
 .sidebarMenuText {
   color: #ffffff;
-  font-family: 'Asap Condensed';
+  font-family: ''Open Sans'';
   font-size: 12px;
 }
 .uib_row_8:not(.cright) > .col {
